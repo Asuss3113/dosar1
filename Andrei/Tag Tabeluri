@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title> Studentii din Grupa HTML &amp; CSS </title>
+ <meta chartset="utf-8"/>
+</head>
+<body>
+  <h1 align="center">Studentii din Grupa HTML &amp; CSS</h1>
+    <table border="4" cellpadding="30" align="center">
+      <tr>
+            <td align="center"><b>Nume Prenume</b></td>
+            <td align="center"><b>Virsta</b></td>
+            <td align="center"><b>Nota medie</b></td>
+            <td align="center"><b>Nivelul</b></td>
+            <td align="center"><b>Hobby</b></td>
+      </tr>
+      <!-- aici incepe un rind-->
+      <tr>
+        <td align="center">Rotaru Andrei</td>
+        <td align="center">31</td>
+          <td align="center">10</td>
+            <td align="center">8</td>
+            <td>
+              <ol>
+                <li>pescuit</li>
+                <li>automobie</li>
+                <li>inot</li>
+                <li>sport</li>
+              </ol>
+            </td>
+      </tr><!-- aici se termina un rind-->
+      <tr>
+        <td align="center"> Rotaru Tatiana</td>
+        <td align="center">30</td>
+          <td align="center">9</td>
+            <td align="center">7</td>
+            <td>
+              <ol>
+                <li>citit</li>
+                <li>gatit</li>
+                <li>inot</li>
+                <li>sport</li>
+              </ol>
+            </td>
+      </tr>
+        <!-- aici se termina un rind-->
+    </table>
+
+
+</body>
+</html>
